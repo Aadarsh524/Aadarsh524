@@ -8,6 +8,6 @@
 
 ## Featured Projects
 
-### 📹 [Video Engagement Predictor]([link](https://github.com/Aadarsh524/video-engagement-predictor))
+### 📹 [Video Engagement Predictor]([https://github.com/Aadarsh524/video-engagement-predictor])
 Multimodal ML system predicting video views (82% R²)
 `PyTorch` `XGBoost` `Docker` `AWS`
