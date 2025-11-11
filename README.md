@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Aadarsh 👋
 
-<!--
-**Aadarsh524/Aadarsh524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Data Science @ Charles Darwin University
+🔭 Currently building ML systems for video platforms
+🌱 Learning MLOps, PyTorch, and production ML
+💬 Ask me about recommendation systems
+📫 Reach me: aadarshghimire524@gmail.com
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📹 [Video Engagement Predictor](link)
+Multimodal ML system predicting video views (82% R²)
+`PyTorch` `XGBoost` `Docker` `AWS`
